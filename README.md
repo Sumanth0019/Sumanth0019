@@ -1,7 +1,5 @@
 <!-- Header with centered image -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sumanth0019/Sumanth0019/main/img/Sumanth1.gif" alt="Banner" width="100%" />
-</p>
+
 
 
 <h1 align="center">Hi there 👋, I'm Sumanth</h1>
@@ -69,6 +67,4 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://raw.githubusercontent.com/<Sumanth0019>/<Sumanth0019>/main/footer.png" width="100%"/>
-</p>
+
