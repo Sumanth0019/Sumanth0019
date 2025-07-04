@@ -1,7 +1,8 @@
 <!-- Header with centered image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/<Sumanth0019>/<Sumanth0019>/main/Sumanth.gif" alt="Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/Sumanth0019/Sumanth0019/main/Sumanth.gif" alt="Banner" width="100%" />
 </p>
+
 
 <h1 align="center">Hi there 👋, I'm Sumanth</h1>
 <h3 align="center">A passionate Data Science Enthusiast & Developer</h3>
