@@ -1,6 +1,6 @@
 <!-- Header with centered image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sumanth0019/Sumanth0019/main/img/Sumanth.gif" alt="Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/Sumanth0019/Sumanth0019/main/img/Sumanth1.gif" alt="Banner" width="100%" />
 </p>
 
 
