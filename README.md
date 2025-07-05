@@ -9,7 +9,7 @@
 
 ### 🧠 About Me
 
-- 🔭 I’m currently exploring **Machine Learning** and **Data Visualization**
+- 🔭 I’m currently exploring **Machine Learning**, **Deep Learning**, **LLM's**,**RAG**
 - 🌱 I’m learning **Pandas, NumPy, Scikit-learn, TensorFlow**
 - 👯 I’m looking to collaborate on **open-source data science projects**
 - 💬 Ask me about **Python, SQL, MongoDB, Data Analysis**
