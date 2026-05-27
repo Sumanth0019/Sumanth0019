@@ -43,7 +43,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Sumanth0019&show_icons=true&theme=radical"
+    src="https://github-readme-stats.vercel.app/api?username=Sumanth0019&show_icons=true&theme=radical&cache_seconds=1800"
     alt="GitHub Stats"
   />
 </p>
@@ -57,7 +57,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanth0019&layout=compact&theme=radical"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanth0019&layout=compact&theme=radical&cache_seconds=1800"
     alt="Top Languages"
   />
 </p>
