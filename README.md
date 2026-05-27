@@ -43,21 +43,21 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Sumanth0019&show_icons=true&theme=radical&cache_seconds=1800"
+    src="https://github-readme-stats.vercel.app/api?username=Sumanth0019&show_icons=true&theme=radical"
     alt="GitHub Stats"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=Sumanth0019&theme=radical&hide_border=true"
+    src="https://streak-stats.demolab.com/?user=Sumanth0019&theme=radical&hide_border=true"
     alt="GitHub Streak"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanth0019&layout=compact&theme=radical&cache_seconds=1800"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanth0019&layout=compact&theme=radical"
     alt="Top Languages"
   />
 </p>
